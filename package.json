@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestogtz/01-nodefarm.git"
+  },
+  "author": "Ernesto Gtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestogtz/01-nodefarm/issues"
+  },
+  "homepage": "https://github.com/ernestogtz/01-nodefarm#readme",
+  "dependencies": {
+    "slugify": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
